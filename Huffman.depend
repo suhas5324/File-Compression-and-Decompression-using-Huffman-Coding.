@@ -1,0 +1,50 @@
+# depslib dependency file v1.0
+1582208411 source:c:\users\asus-pc\desktop\programming\huffman compression\huffman\main.c
+	"file.h"
+
+1582208425 c:\users\asus-pc\desktop\programming\huffman compression\huffman\file.h
+	<stdio.h>
+	<string.h>
+
+1582209688 source:c:\users\asus-pc\desktop\programming\huffman coding\huffman\decode.c
+
+1582441171 source:c:\users\asus-pc\desktop\programming\huffman coding\huffman\encode.c
+	"encode.h"
+
+1584467305 source:c:\users\asus-pc\desktop\programming\huffman coding\huffman\file.c
+	"file.h"
+
+1584468660 c:\users\asus-pc\desktop\programming\huffman coding\huffman\file.h
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+
+1584473085 source:c:\users\asus-pc\desktop\programming\huffman coding\huffman\main.c
+	"Compress.h"
+	"Decompress.h"
+
+1582440347 c:\users\asus-pc\desktop\programming\huffman coding\huffman\encode.h
+	"file.h"
+	"inttypes.h"
+
+1584468709 source:c:\users\asus-pc\desktop\programming\huffman coding\huffman\huffman.c
+	"Huffman.h"
+
+1584469539 c:\users\asus-pc\desktop\programming\huffman coding\huffman\huffman.h
+	<stdio.h>
+	<stdlib.h>
+
+1584474074 source:c:\users\asus-pc\desktop\programming\huffman coding\huffman\compress.c
+	"Compress.h"
+
+1582557967 c:\users\asus-pc\desktop\programming\huffman coding\huffman\struct.h
+
+1584474068 source:c:\users\asus-pc\desktop\programming\huffman coding\huffman\decompress.c
+	"Decompress.h"
+
+1584467847 c:\users\asus-pc\desktop\programming\huffman coding\huffman\compress.h
+	"Huffman.h"
+
+1584471698 c:\users\asus-pc\desktop\programming\huffman coding\huffman\decompress.h
+	"Huffman.h"
+

@@ -259,6 +259,7 @@ static bool WriteCompressedFile(FILE** inpFP)
   }
 
   printf("**** Bytes Written: %d ****\n", byteCount);
+  printf("HELLO");
 
   fclose(fp);
 
